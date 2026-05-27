@@ -1,0 +1,12 @@
+pandas
+numpy
+pdfplumber
+matplotlib
+scikit-learn
+joblib
+unstructured[pdf]
+httpx
+python-dotenv
+python-docx
+Pillow
+openpyxl
