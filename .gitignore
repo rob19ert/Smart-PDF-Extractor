@@ -156,6 +156,7 @@ output_images/*
 *.docx
 *.rar
 *.zip
-*_gemini_analysis.md
+*.md
+!README.md
 # retrain_dataset.csv
 # formula_classifier.pkl
