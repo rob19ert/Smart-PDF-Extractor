@@ -38,7 +38,7 @@ The tool includes an `is_likely_formula` analyzer that uncovers formulas nested 
 - **Excel Export**: Structured breakdown of document elements including page numbers, types, full text, and text previews, saved to `*_blocks_final.xlsx`.
 - **Visual Validation**: PNG overlays exported to the `output_images` directory with color-coded bounding boxes:
     - **Blue**: Text (Narrative, Title)
-    - **Green shades**: Formulas (Light green for math, medium for physics, vibrant for chemistry)
+    - **Green shades**: Formulas (Light green for math, medium for physics)
     - **Red**: Tables
     - **Yellow**: Captions
 - **GOST Standards**: Visualizations apply "Times New Roman" at 14pt, fulfilling engineering documentation standards.
