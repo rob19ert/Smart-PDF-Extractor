@@ -587,6 +587,7 @@ class SmartPDFExtractor:
             'table': '#EA4335', 'caption': '#FBBC05'
         }
 
+
         for el in page_blocks:
             if not hasattr(el.metadata, 'coordinates') or not el.metadata.coordinates: continue
             coords = el.metadata.coordinates.points
